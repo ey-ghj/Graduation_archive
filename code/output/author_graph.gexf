@@ -1,0 +1,217 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-05-11">
+    <creator>NetworkX 2.8.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="刘付勇" label="刘付勇" />
+      <node id="张晶" label="张晶" />
+      <node id="周燕" label="周燕" />
+      <node id="肖卓宇" label="肖卓宇" />
+      <node id="郭剑" label="郭剑" />
+      <node id="孙力娟" label="孙力娟" />
+      <node id="朱旻如" label="朱旻如" />
+      <node id="张红梅" label="张红梅" />
+      <node id="朱长水" label="朱长水" />
+      <node id="吴许俊" label="吴许俊" />
+      <node id="向军" label="向军" />
+      <node id="谭明佳" label="谭明佳" />
+      <node id="刘伟" label="刘伟" />
+      <node id="杨大利" label="杨大利" />
+      <node id="刘勇" label="刘勇" />
+      <node id="苏畅" label="苏畅" />
+      <node id="李保银" label="李保银" />
+      <node id="陈志泊" label="陈志泊" />
+      <node id="徐艳艳" label="徐艳艳" />
+      <node id="黎明" label="黎明" />
+      <node id="张锦" label="张锦" />
+      <node id="王磊" label="王磊" />
+      <node id="张亚红" label="张亚红" />
+      <node id="陈辉" label="陈辉" />
+      <node id="周兵" label="周兵" />
+      <node id="张斌" label="张斌" />
+      <node id="曾凡智" label="曾凡智" />
+      <node id="郑光勇" label="郑光勇" />
+      <node id="梁小满" label="梁小满" />
+      <node id="顾春华" label="顾春华" />
+      <node id="张彬连" label="张彬连" />
+      <node id="黎妍" label="黎妍" />
+      <node id="叶嘉笑" label="叶嘉笑" />
+      <node id="陈立南" label="陈立南" />
+      <node id="赵庆聪" label="赵庆聪" />
+      <node id="袁辉勇" label="袁辉勇" />
+      <node id="谭海燕" label="谭海燕" />
+      <node id="黄国顺" label="黄国顺" />
+      <node id="南小可" label="南小可" />
+      <node id="文翰" label="文翰" />
+      <node id="张友红" label="张友红" />
+      <node id="杨阳" label="杨阳" />
+      <node id="王莉利" label="王莉利" />
+      <node id="时贵英" label="时贵英" />
+      <node id="陈蕾" label="陈蕾" />
+      <node id="刘卫国" label="刘卫国" />
+      <node id="魏海涛" label="魏海涛" />
+      <node id="冯林" label="冯林" />
+      <node id="叶华" label="叶华" />
+      <node id="朱立华" label="朱立华" />
+      <node id="肖甫" label="肖甫" />
+      <node id="易虹" label="易虹" />
+      <node id="徐振强" label="徐振强" />
+      <node id="游静" label="游静" />
+      <node id="徐守坤" label="徐守坤" />
+      <node id="张冬云" label="张冬云" />
+      <node id="邓红卫" label="邓红卫" />
+      <node id="王樱" label="王樱" />
+      <node id="魏书堤" label="魏书堤" />
+      <node id="蒋瀚洋" label="蒋瀚洋" />
+      <node id="靳雁霞" label="靳雁霞" />
+      <node id="李汝光" label="李汝光" />
+      <node id="张明川" label="张明川" />
+      <node id="郑瑞娟" label="郑瑞娟" />
+      <node id="魏汪洋" label="魏汪洋" />
+      <node id="包空军" label="包空军" />
+      <node id="杨静" label="杨静" />
+      <node id="王浩" label="王浩" />
+      <node id="方宝富" label="方宝富" />
+      <node id="姚宏亮" label="姚宏亮" />
+      <node id="王新光" label="王新光" />
+      <node id="万定生" label="万定生" />
+      <node id="张希伟" label="张希伟" />
+    </nodes>
+    <edges>
+      <edge source="刘付勇" target="刘付勇" id="0" weight="1.0" />
+      <edge source="张晶" target="姚宏亮" id="1" weight="0.4472135954999579" />
+      <edge source="张晶" target="方宝富" id="2" weight="0.4472135954999579" />
+      <edge source="张晶" target="王浩" id="3" weight="0.4472135954999579" />
+      <edge source="张晶" target="杨静" id="4" weight="0.4472135954999579" />
+      <edge source="张晶" target="张晶" id="5" weight="0.7071067811865475" />
+      <edge source="周燕" target="曾凡智" id="6" weight="0.7071067811865475" />
+      <edge source="周燕" target="周燕" id="7" weight="0.8320502943378437" />
+      <edge source="肖卓宇" target="叶嘉笑" id="8" weight="0.5773502691896257" />
+      <edge source="肖卓宇" target="黎妍" id="9" weight="0.5773502691896257" />
+      <edge source="肖卓宇" target="肖卓宇" id="10" weight="0.727606875108999" />
+      <edge source="郭剑" target="肖甫" id="11" weight="0.4472135954999579" />
+      <edge source="郭剑" target="朱立华" id="12" weight="0.4472135954999579" />
+      <edge source="郭剑" target="朱旻如" id="13" weight="0.50709255283711" />
+      <edge source="郭剑" target="孙力娟" id="14" weight="0.50709255283711" />
+      <edge source="郭剑" target="郭剑" id="15" weight="0.50709255283711" />
+      <edge source="孙力娟" target="肖甫" id="16" weight="0.4472135954999579" />
+      <edge source="孙力娟" target="朱立华" id="17" weight="0.4472135954999579" />
+      <edge source="孙力娟" target="朱旻如" id="18" weight="0.50709255283711" />
+      <edge source="孙力娟" target="孙力娟" id="19" weight="0.50709255283711" />
+      <edge source="朱旻如" target="肖甫" id="20" weight="0.4472135954999579" />
+      <edge source="朱旻如" target="朱立华" id="21" weight="0.4472135954999579" />
+      <edge source="朱旻如" target="朱旻如" id="22" weight="0.50709255283711" />
+      <edge source="张红梅" target="徐振强" id="23" weight="0.5773502691896257" />
+      <edge source="张红梅" target="易虹" id="24" weight="0.5773502691896257" />
+      <edge source="张红梅" target="张红梅" id="25" weight="0.727606875108999" />
+      <edge source="朱长水" target="吴许俊" id="26" weight="0.7071067811865475" />
+      <edge source="朱长水" target="朱长水" id="27" weight="0.7071067811865475" />
+      <edge source="吴许俊" target="吴许俊" id="28" weight="0.7071067811865475" />
+      <edge source="向军" target="谭明佳" id="29" weight="0.7071067811865475" />
+      <edge source="向军" target="向军" id="30" weight="0.7071067811865475" />
+      <edge source="谭明佳" target="谭明佳" id="31" weight="0.7071067811865475" />
+      <edge source="刘伟" target="刘伟" id="32" weight="1.0" />
+      <edge source="杨大利" target="杨大利" id="33" weight="1.0" />
+      <edge source="刘勇" target="刘勇" id="34" weight="1.0" />
+      <edge source="苏畅" target="苏畅" id="35" weight="1.0" />
+      <edge source="李保银" target="李保银" id="36" weight="1.0" />
+      <edge source="陈志泊" target="徐艳艳" id="37" weight="0.7071067811865475" />
+      <edge source="陈志泊" target="陈志泊" id="38" weight="0.7071067811865475" />
+      <edge source="徐艳艳" target="徐艳艳" id="39" weight="0.7071067811865475" />
+      <edge source="黎明" target="黎明" id="40" weight="1.0" />
+      <edge source="张锦" target="张锦" id="41" weight="1.0" />
+      <edge source="王磊" target="赵庆聪" id="42" weight="0.3333333333333333" />
+      <edge source="王磊" target="陈立南" id="43" weight="0.3333333333333333" />
+      <edge source="王磊" target="王磊" id="44" weight="0.8164965809277259" />
+      <edge source="张亚红" target="陈辉" id="45" weight="0.447213595499958" />
+      <edge source="张亚红" target="张亚红" id="46" weight="0.894427190999916" />
+      <edge source="陈辉" target="陈辉" id="47" weight="0.894427190999916" />
+      <edge source="周兵" target="周兵" id="48" weight="1.0" />
+      <edge source="张斌" target="张斌" id="49" weight="1.0" />
+      <edge source="曾凡智" target="曾凡智" id="50" weight="0.7071067811865475" />
+      <edge source="郑光勇" target="梁小满" id="51" weight="0.7071067811865475" />
+      <edge source="郑光勇" target="郑光勇" id="52" weight="0.7071067811865475" />
+      <edge source="梁小满" target="梁小满" id="53" weight="0.7071067811865475" />
+      <edge source="顾春华" target="顾春华" id="54" weight="1.0" />
+      <edge source="张彬连" target="张彬连" id="55" weight="1.0" />
+      <edge source="黎妍" target="叶嘉笑" id="56" weight="0.5773502691896257" />
+      <edge source="黎妍" target="黎妍" id="57" weight="0.5773502691896257" />
+      <edge source="叶嘉笑" target="叶嘉笑" id="58" weight="0.5773502691896257" />
+      <edge source="陈立南" target="赵庆聪" id="59" weight="0.6666666666666666" />
+      <edge source="陈立南" target="陈立南" id="60" weight="0.6666666666666666" />
+      <edge source="赵庆聪" target="赵庆聪" id="61" weight="0.6666666666666666" />
+      <edge source="袁辉勇" target="袁辉勇" id="62" weight="1.0" />
+      <edge source="谭海燕" target="张友红" id="63" weight="0.4472135954999579" />
+      <edge source="谭海燕" target="文翰" id="64" weight="0.4472135954999579" />
+      <edge source="谭海燕" target="南小可" id="65" weight="0.4472135954999579" />
+      <edge source="谭海燕" target="黄国顺" id="66" weight="0.4472135954999579" />
+      <edge source="谭海燕" target="谭海燕" id="67" weight="0.4472135954999579" />
+      <edge source="黄国顺" target="张友红" id="68" weight="0.4472135954999579" />
+      <edge source="黄国顺" target="文翰" id="69" weight="0.4472135954999579" />
+      <edge source="黄国顺" target="南小可" id="70" weight="0.4472135954999579" />
+      <edge source="黄国顺" target="黄国顺" id="71" weight="0.4472135954999579" />
+      <edge source="南小可" target="张友红" id="72" weight="0.4472135954999579" />
+      <edge source="南小可" target="文翰" id="73" weight="0.4472135954999579" />
+      <edge source="南小可" target="南小可" id="74" weight="0.4472135954999579" />
+      <edge source="文翰" target="张友红" id="75" weight="0.4472135954999579" />
+      <edge source="文翰" target="文翰" id="76" weight="0.4472135954999579" />
+      <edge source="张友红" target="张友红" id="77" weight="0.4472135954999579" />
+      <edge source="杨阳" target="杨阳" id="78" weight="1.0" />
+      <edge source="王莉利" target="时贵英" id="79" weight="0.7071067811865475" />
+      <edge source="王莉利" target="王莉利" id="80" weight="0.7071067811865475" />
+      <edge source="时贵英" target="时贵英" id="81" weight="0.7071067811865475" />
+      <edge source="陈蕾" target="陈蕾" id="82" weight="1.0" />
+      <edge source="刘卫国" target="刘卫国" id="83" weight="1.0" />
+      <edge source="魏海涛" target="魏海涛" id="84" weight="1.0" />
+      <edge source="冯林" target="冯林" id="85" weight="1.0" />
+      <edge source="叶华" target="叶华" id="86" weight="1.0" />
+      <edge source="朱立华" target="肖甫" id="87" weight="0.4472135954999579" />
+      <edge source="朱立华" target="朱立华" id="88" weight="0.4472135954999579" />
+      <edge source="肖甫" target="肖甫" id="89" weight="0.4472135954999579" />
+      <edge source="易虹" target="徐振强" id="90" weight="0.5773502691896257" />
+      <edge source="易虹" target="易虹" id="91" weight="0.5773502691896257" />
+      <edge source="徐振强" target="徐振强" id="92" weight="0.5773502691896257" />
+      <edge source="游静" target="徐守坤" id="93" weight="0.7071067811865475" />
+      <edge source="游静" target="游静" id="94" weight="0.7071067811865475" />
+      <edge source="徐守坤" target="徐守坤" id="95" weight="0.7071067811865475" />
+      <edge source="张冬云" target="张冬云" id="96" weight="1.0" />
+      <edge source="邓红卫" target="蒋瀚洋" id="97" weight="0.5" />
+      <edge source="邓红卫" target="魏书堤" id="98" weight="0.5" />
+      <edge source="邓红卫" target="王樱" id="99" weight="0.5" />
+      <edge source="邓红卫" target="邓红卫" id="100" weight="0.5" />
+      <edge source="王樱" target="蒋瀚洋" id="101" weight="0.5" />
+      <edge source="王樱" target="魏书堤" id="102" weight="0.5" />
+      <edge source="王樱" target="王樱" id="103" weight="0.5" />
+      <edge source="魏书堤" target="蒋瀚洋" id="104" weight="0.5" />
+      <edge source="魏书堤" target="魏书堤" id="105" weight="0.5" />
+      <edge source="蒋瀚洋" target="蒋瀚洋" id="106" weight="0.5" />
+      <edge source="靳雁霞" target="靳雁霞" id="107" weight="1.0" />
+      <edge source="李汝光" target="李汝光" id="108" weight="1.0" />
+      <edge source="张明川" target="魏汪洋" id="109" weight="0.5773502691896257" />
+      <edge source="张明川" target="郑瑞娟" id="110" weight="0.5773502691896257" />
+      <edge source="张明川" target="张明川" id="111" weight="0.5773502691896257" />
+      <edge source="郑瑞娟" target="魏汪洋" id="112" weight="0.5773502691896257" />
+      <edge source="郑瑞娟" target="郑瑞娟" id="113" weight="0.5773502691896257" />
+      <edge source="魏汪洋" target="魏汪洋" id="114" weight="0.5773502691896257" />
+      <edge source="包空军" target="包空军" id="115" weight="1.0" />
+      <edge source="杨静" target="姚宏亮" id="116" weight="0.4472135954999579" />
+      <edge source="杨静" target="方宝富" id="117" weight="0.4472135954999579" />
+      <edge source="杨静" target="王浩" id="118" weight="0.4472135954999579" />
+      <edge source="杨静" target="杨静" id="119" weight="0.4472135954999579" />
+      <edge source="王浩" target="姚宏亮" id="120" weight="0.4472135954999579" />
+      <edge source="王浩" target="方宝富" id="121" weight="0.4472135954999579" />
+      <edge source="王浩" target="王浩" id="122" weight="0.4472135954999579" />
+      <edge source="方宝富" target="姚宏亮" id="123" weight="0.4472135954999579" />
+      <edge source="方宝富" target="方宝富" id="124" weight="0.4472135954999579" />
+      <edge source="姚宏亮" target="姚宏亮" id="125" weight="0.4472135954999579" />
+      <edge source="王新光" target="张希伟" id="126" weight="0.5773502691896257" />
+      <edge source="王新光" target="万定生" id="127" weight="0.5773502691896257" />
+      <edge source="王新光" target="王新光" id="128" weight="0.5773502691896257" />
+      <edge source="万定生" target="张希伟" id="129" weight="0.5773502691896257" />
+      <edge source="万定生" target="万定生" id="130" weight="0.5773502691896257" />
+      <edge source="张希伟" target="张希伟" id="131" weight="0.5773502691896257" />
+    </edges>
+  </graph>
+</gexf>

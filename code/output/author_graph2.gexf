@@ -1,0 +1,268 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-05-08">
+    <creator>NetworkX 2.8.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="河南理工大学鹤壁工程技术学院" label="河南理工大学鹤壁工程技术学院" />
+      <node id="鹤壁职业技术学院" label="鹤壁职业技术学院" />
+      <node id="洛阳师范学院信息技术学院" label="洛阳师范学院信息技术学院" />
+      <node id="江西省九江市教科所" label="江西省九江市教科所" />
+      <node id="江西省九江市同文中学" label="江西省九江市同文中学" />
+      <node id="无锡市教师发展学院" label="无锡市教师发展学院" />
+      <node id="江南大学教育学院" label="江南大学教育学院" />
+      <node id="上海理工大学信息技术教研室" label="上海理工大学信息技术教研室" />
+      <node id="上海理工大学光电学院" label="上海理工大学光电学院" />
+      <node id="全国高等学校计算机基础教育研究会" label="全国高等学校计算机基础教育研究会" />
+      <node id="上海市计算机基础教育协会" label="上海市计算机基础教育协会" />
+      <node id="广东省多媒体信息服务工程技术中心" label="广东省多媒体信息服务工程技术中心" />
+      <node id="深圳大学" label="深圳大学" />
+      <node id="电子与信息工程学院" label="电子与信息工程学院" />
+      <node id="北京化工大学附属中学" label="北京化工大学附属中学" />
+      <node id="北京化工大学信息科学与技术学院" label="北京化工大学信息科学与技术学院" />
+      <node id="贵州师范学院数学与大数据学院" label="贵州师范学院数学与大数据学院" />
+      <node id="贵州师范学院大数据科学与智能工程研究院" label="贵州师范学院大数据科学与智能工程研究院" />
+      <node id="深圳市新安中学(集团)初中部" label="深圳市新安中学(集团)初中部" />
+      <node id="华南师范大学附属惠阳学校" label="华南师范大学附属惠阳学校" />
+      <node id="南京邮电大学通信与信息工程学院" label="南京邮电大学通信与信息工程学院" />
+      <node id="南京邮电大学通达学院" label="南京邮电大学通达学院" />
+      <node id="南京邮电大学电子与光学工程学院微电子学院" label="南京邮电大学电子与光学工程学院微电子学院" />
+      <node id="北京大学信息科学技术学院" label="北京大学信息科学技术学院" />
+      <node id="北京大学教育学院教育技术系" label="北京大学教育学院教育技术系" />
+      <node id="葫芦岛渤海船舶职业学院" label="葫芦岛渤海船舶职业学院" />
+      <node id="辽宁师范大学计算机与信息技术学院" label="辽宁师范大学计算机与信息技术学院" />
+      <node id="山东交通学院船舶与轮机工程学院" label="山东交通学院船舶与轮机工程学院" />
+      <node id="威海市第八中学" label="威海市第八中学" />
+      <node id="北京航空航天大学自动化与电气工程学院" label="北京航空航天大学自动化与电气工程学院" />
+      <node id="深圳点猫科技有限公司" label="深圳点猫科技有限公司" />
+      <node id="大连民族大学计算机科学与工程学院" label="大连民族大学计算机科学与工程学院" />
+      <node id="大连民族大学信息与通信工程学院" label="大连民族大学信息与通信工程学院" />
+      <node id="桂林电子科技大学计算机与信息安全学院" label="桂林电子科技大学计算机与信息安全学院" />
+      <node id="桂林航天工业学院计算机科学与工程学院" label="桂林航天工业学院计算机科学与工程学院" />
+      <node id="北京师范大学教育技术学院" label="北京师范大学教育技术学院" />
+      <node id="河南财经政法大学计算机与信息工程学院" label="河南财经政法大学计算机与信息工程学院" />
+      <node id="对外经济贸易大学网络安全和信息化处" label="对外经济贸易大学网络安全和信息化处" />
+      <node id="东北大学软件学院软件工程国家级实验教学示范中心" label="东北大学软件学院软件工程国家级实验教学示范中心" />
+      <node id="东北大学计算机科学与工程学院" label="东北大学计算机科学与工程学院" />
+      <node id="南宁学院信息工程学院" label="南宁学院信息工程学院" />
+      <node id="南宁学院土木与建筑工程学院" label="南宁学院土木与建筑工程学院" />
+      <node id="合肥工业大学附属中学体育教学部" label="合肥工业大学附属中学体育教学部" />
+      <node id="合肥师范学院计算机学院" label="合肥师范学院计算机学院" />
+      <node id="国家行政学院信息技术部" label="国家行政学院信息技术部" />
+      <node id="北京师范大学教育学部" label="北京师范大学教育学部" />
+      <node id="兰州石化职业技术学院科技处" label="兰州石化职业技术学院科技处" />
+      <node id="宁夏大学机械工程学院" label="宁夏大学机械工程学院" />
+      <node id="中国海洋大学信息科学与工程学院" label="中国海洋大学信息科学与工程学院" />
+      <node id="中国海洋大学教育系" label="中国海洋大学教育系" />
+      <node id="桂林电子科技大学电子工程与自动化学院" label="桂林电子科技大学电子工程与自动化学院" />
+      <node id="沈阳工业大学信息科学与工程学院" label="沈阳工业大学信息科学与工程学院" />
+      <node id="沈阳工业大学高等教育发展研究中心" label="沈阳工业大学高等教育发展研究中心" />
+      <node id="华东理工大学理学院" label="华东理工大学理学院" />
+      <node id="上海理工大学光电信息与计算机工程学院" label="上海理工大学光电信息与计算机工程学院" />
+      <node id="华东理工大学信息科学与工程学院" label="华东理工大学信息科学与工程学院" />
+      <node id="智能信息处理与应用湖南省重点实验室" label="智能信息处理与应用湖南省重点实验室" />
+      <node id="衡阳师范学院计算机科学与技术学院" label="衡阳师范学院计算机科学与技术学院" />
+      <node id="青海省同仁县农村信用合作联社" label="青海省同仁县农村信用合作联社" />
+      <node id="青海民族大学计算机学院" label="青海民族大学计算机学院" />
+      <node id="珠海市教研中心" label="珠海市教研中心" />
+      <node id="珠海市斗门区城南学校" label="珠海市斗门区城南学校" />
+      <node id="贵州理工学院信息工程学院" label="贵州理工学院信息工程学院" />
+      <node id="湖南邵阳新宁二中" label="湖南邵阳新宁二中" />
+      <node id="湖南邮电职业技术学院" label="湖南邮电职业技术学院" />
+      <node id="中南林业科技大学涉外学院" label="中南林业科技大学涉外学院" />
+      <node id="湖南高速公路管理局" label="湖南高速公路管理局" />
+      <node id="北京信息科技大学教务处" label="北京信息科技大学教务处" />
+      <node id="北京信息科技大学计算机学院" label="北京信息科技大学计算机学院" />
+      <node id="湖南科技学院电子工程与信息化学院" label="湖南科技学院电子工程与信息化学院" />
+      <node id="水口山镇毛溪桥完小" label="水口山镇毛溪桥完小" />
+      <node id="宁德师范学院计算机系" label="宁德师范学院计算机系" />
+      <node id="宜春学院数学与计算机科学学院" label="宜春学院数学与计算机科学学院" />
+      <node id="中国石油大学(华东)计算机与通信工程学院软件工程系" label="中国石油大学(华东)计算机与通信工程学院软件工程系" />
+      <node id="中国石油大学(华东)计算机与通信工程学院" label="中国石油大学(华东)计算机与通信工程学院" />
+      <node id="华南师范大学教育信息技术学院" label="华南师范大学教育信息技术学院" />
+      <node id="海南大学网络与教育技术中心" label="海南大学网络与教育技术中心" />
+      <node id="广东省湛江市广东海洋大学软件工程学院" label="广东省湛江市广东海洋大学软件工程学院" />
+      <node id="广东海洋大学" label="广东海洋大学" />
+      <node id="佛山科学技术学院自动化系" label="佛山科学技术学院自动化系" />
+      <node id="佛山科学技术学院计算机系" label="佛山科学技术学院计算机系" />
+      <node id="克拉玛依职业技术学院" label="克拉玛依职业技术学院" />
+      <node id="红云红河集团新疆卷烟厂" label="红云红河集团新疆卷烟厂" />
+      <node id="四川民族学院计算机科学系" label="四川民族学院计算机科学系" />
+      <node id="西南大学计算机与信息科学学院" label="西南大学计算机与信息科学学院" />
+      <node id="新疆轻工职业技术学院计算机系" label="新疆轻工职业技术学院计算机系" />
+      <node id="新疆师范大学教育科学学院" label="新疆师范大学教育科学学院" />
+      <node id="湖南科技学院计算机与通信工程系" label="湖南科技学院计算机与通信工程系" />
+      <node id="永州职业技术学院" label="永州职业技术学院" />
+      <node id="大连理工大学计算机基础实验教学中心" label="大连理工大学计算机基础实验教学中心" />
+      <node id="大连理工大学机械工程学院" label="大连理工大学机械工程学院" />
+      <node id="湖北汽车工业学院电气与信息工程学院" label="湖北汽车工业学院电气与信息工程学院" />
+      <node id="湖北汽车工业学院教务处" label="湖北汽车工业学院教务处" />
+      <node id="郑州轻工业学院" label="郑州轻工业学院" />
+      <node id="厦门大学" label="厦门大学" />
+      <node id="南京邮电大学计算机学院" label="南京邮电大学计算机学院" />
+      <node id="天津理工大学机械工程学院" label="天津理工大学机械工程学院" />
+      <node id="北京电子科技职业学院科研处" label="北京电子科技职业学院科研处" />
+      <node id="天津理工大学计算机与通信工程学院" label="天津理工大学计算机与通信工程学院" />
+      <node id="哈尔滨工程大学计算机科学与技术学院" label="哈尔滨工程大学计算机科学与技术学院" />
+      <node id="哈尔滨师范大学计算机科学与信息工程学院" label="哈尔滨师范大学计算机科学与信息工程学院" />
+      <node id="河南化工职业学院" label="河南化工职业学院" />
+      <node id="河南工业职业技术学院软件学院" label="河南工业职业技术学院软件学院" />
+      <node id="河南工业职业技术学院基础教学部" label="河南工业职业技术学院基础教学部" />
+      <node id="湖南工业大学电气与信息工程学院" label="湖南工业大学电气与信息工程学院" />
+      <node id="湖南工业大学计算机与通信学院" label="湖南工业大学计算机与通信学院" />
+      <node id="盐城工学院实验教学部" label="盐城工学院实验教学部" />
+      <node id="盐城工学院信息工程学院" label="盐城工学院信息工程学院" />
+      <node id="海口经济学院信息工程学院" label="海口经济学院信息工程学院" />
+      <node id="中国传媒大学数字技术与艺术研发中心" label="中国传媒大学数字技术与艺术研发中心" />
+      <node id="北京科技大学信息工程学院" label="北京科技大学信息工程学院" />
+      <node id="北京交通大学计算机与信息技术学院" label="北京交通大学计算机与信息技术学院" />
+      <node id="郑州牧业工程高等专科学校信息工程系" label="郑州牧业工程高等专科学校信息工程系" />
+      <node id="中州大学信息管理中心" label="中州大学信息管理中心" />
+      <node id="云南师范大学计算机与信息学院" label="云南师范大学计算机与信息学院" />
+      <node id="云南大学信息学院" label="云南大学信息学院" />
+      <node id="中国人民解放军海军大连舰艇学院政治系" label="中国人民解放军海军大连舰艇学院政治系" />
+      <node id="沈阳理工大学应用技术学院" label="沈阳理工大学应用技术学院" />
+      <node id="沈阳师范大学教育技术学院" label="沈阳师范大学教育技术学院" />
+      <node id="沈阳师范大学软件学院" label="沈阳师范大学软件学院" />
+      <node id="中国药科大学计算机教研室" label="中国药科大学计算机教研室" />
+      <node id="南京理工大学信息与计算科学系" label="南京理工大学信息与计算科学系" />
+      <node id="南昌航空大学科技学院" label="南昌航空大学科技学院" />
+      <node id="南昌航空大学信息工程学院" label="南昌航空大学信息工程学院" />
+      <node id="广东工业大学" label="广东工业大学" />
+      <node id="广州现代信息工程职业技术学院" label="广州现代信息工程职业技术学院" />
+      <node id="西北师范大学" label="西北师范大学" />
+      <node id="西北民族大学" label="西北民族大学" />
+      <node id="华南农业大学数学与信息学院" label="华南农业大学数学与信息学院" />
+      <node id="五邑大学计算机学院" label="五邑大学计算机学院" />
+      <node id="重庆航天职业技术学院" label="重庆航天职业技术学院" />
+      <node id="重庆电子工程职业学院" label="重庆电子工程职业学院" />
+      <node id="鲁东大学信息与电气工程学院" label="鲁东大学信息与电气工程学院" />
+      <node id="烟台青华中学" label="烟台青华中学" />
+      <node id="安徽新华学院" label="安徽新华学院" />
+      <node id="合肥十一中" label="合肥十一中" />
+      <node id="云南师范大学教务处" label="云南师范大学教务处" />
+      <node id="云南师范大学文理学院信息工程学院" label="云南师范大学文理学院信息工程学院" />
+      <node id="河北联合大学以升学院" label="河北联合大学以升学院" />
+      <node id="河北联合大学理学院" label="河北联合大学理学院" />
+      <node id="宁波城市职业技术学院高职研究中心" label="宁波城市职业技术学院高职研究中心" />
+      <node id="宁波城市职业技术学院信息学院" label="宁波城市职业技术学院信息学院" />
+      <node id="广东青年职业学院计算机工程系" label="广东青年职业学院计算机工程系" />
+      <node id="辽宁工程技术大学创新实践学院" label="辽宁工程技术大学创新实践学院" />
+      <node id="华中师范大学计算机科学系" label="华中师范大学计算机科学系" />
+      <node id="湖北经济学院信息管理学院" label="湖北经济学院信息管理学院" />
+      <node id="河北农业大学信息科学与技术学院" label="河北农业大学信息科学与技术学院" />
+      <node id="河北农业大学食品科技学院" label="河北农业大学食品科技学院" />
+      <node id="华南师范大学,教育信息技术学院" label="华南师范大学,教育信息技术学院" />
+      <node id="暨南大学,深圳旅游学院" label="暨南大学,深圳旅游学院" />
+      <node id="西安交通大学城市学院" label="西安交通大学城市学院" />
+      <node id="西安培华学院" label="西安培华学院" />
+      <node id="北京理工大学计算机学院" label="北京理工大学计算机学院" />
+      <node id="北京理工大学机械与车辆学院" label="北京理工大学机械与车辆学院" />
+      <node id="江西农业工程职业学院" label="江西农业工程职业学院" />
+      <node id="西安周至职教中心" label="西安周至职教中心" />
+      <node id="同济大学电信学院" label="同济大学电信学院" />
+      <node id="华东理工大学电信学院" label="华东理工大学电信学院" />
+      <node id="上海交通大学电信学院" label="上海交通大学电信学院" />
+    </nodes>
+    <edges>
+      <edge source="河南理工大学鹤壁工程技术学院" target="鹤壁职业技术学院" id="0" weight="2" />
+      <edge source="河南理工大学鹤壁工程技术学院" target="洛阳师范学院信息技术学院" id="1" weight="2" />
+      <edge source="鹤壁职业技术学院" target="洛阳师范学院信息技术学院" id="2" weight="2" />
+      <edge source="江西省九江市教科所" target="江西省九江市同文中学" id="3" weight="2" />
+      <edge source="无锡市教师发展学院" target="江南大学教育学院" id="4" weight="2" />
+      <edge source="上海理工大学信息技术教研室" target="上海理工大学光电学院" id="5" weight="2" />
+      <edge source="上海理工大学信息技术教研室" target="全国高等学校计算机基础教育研究会" id="6" weight="2" />
+      <edge source="上海理工大学信息技术教研室" target="上海市计算机基础教育协会" id="7" weight="2" />
+      <edge source="上海理工大学光电学院" target="全国高等学校计算机基础教育研究会" id="8" weight="2" />
+      <edge source="上海理工大学光电学院" target="上海市计算机基础教育协会" id="9" weight="2" />
+      <edge source="全国高等学校计算机基础教育研究会" target="上海市计算机基础教育协会" id="10" weight="2" />
+      <edge source="广东省多媒体信息服务工程技术中心" target="深圳大学" id="11" weight="2" />
+      <edge source="广东省多媒体信息服务工程技术中心" target="电子与信息工程学院" id="12" weight="2" />
+      <edge source="深圳大学" target="电子与信息工程学院" id="13" weight="2" />
+      <edge source="北京化工大学附属中学" target="北京化工大学信息科学与技术学院" id="14" weight="2" />
+      <edge source="贵州师范学院数学与大数据学院" target="贵州师范学院大数据科学与智能工程研究院" id="15" weight="2" />
+      <edge source="深圳市新安中学(集团)初中部" target="华南师范大学附属惠阳学校" id="16" weight="2" />
+      <edge source="南京邮电大学通信与信息工程学院" target="南京邮电大学通达学院" id="17" weight="2" />
+      <edge source="南京邮电大学通信与信息工程学院" target="南京邮电大学电子与光学工程学院微电子学院" id="18" weight="2" />
+      <edge source="南京邮电大学通达学院" target="南京邮电大学电子与光学工程学院微电子学院" id="19" weight="2" />
+      <edge source="南京邮电大学通达学院" target="南京邮电大学计算机学院" id="20" weight="2" />
+      <edge source="北京大学信息科学技术学院" target="北京大学教育学院教育技术系" id="21" weight="2" />
+      <edge source="葫芦岛渤海船舶职业学院" target="辽宁师范大学计算机与信息技术学院" id="22" weight="2" />
+      <edge source="山东交通学院船舶与轮机工程学院" target="威海市第八中学" id="23" weight="2" />
+      <edge source="北京航空航天大学自动化与电气工程学院" target="深圳点猫科技有限公司" id="24" weight="2" />
+      <edge source="大连民族大学计算机科学与工程学院" target="大连民族大学信息与通信工程学院" id="25" weight="2" />
+      <edge source="桂林电子科技大学计算机与信息安全学院" target="桂林航天工业学院计算机科学与工程学院" id="26" weight="2" />
+      <edge source="桂林电子科技大学计算机与信息安全学院" target="桂林电子科技大学电子工程与自动化学院" id="27" weight="2" />
+      <edge source="北京师范大学教育技术学院" target="河南财经政法大学计算机与信息工程学院" id="28" weight="2" />
+      <edge source="北京师范大学教育技术学院" target="对外经济贸易大学网络安全和信息化处" id="29" weight="2" />
+      <edge source="河南财经政法大学计算机与信息工程学院" target="对外经济贸易大学网络安全和信息化处" id="30" weight="2" />
+      <edge source="东北大学软件学院软件工程国家级实验教学示范中心" target="东北大学计算机科学与工程学院" id="31" weight="2" />
+      <edge source="南宁学院信息工程学院" target="南宁学院土木与建筑工程学院" id="32" weight="2" />
+      <edge source="合肥工业大学附属中学体育教学部" target="合肥师范学院计算机学院" id="33" weight="2" />
+      <edge source="国家行政学院信息技术部" target="北京师范大学教育学部" id="34" weight="2" />
+      <edge source="兰州石化职业技术学院科技处" target="宁夏大学机械工程学院" id="35" weight="2" />
+      <edge source="中国海洋大学信息科学与工程学院" target="中国海洋大学教育系" id="36" weight="2" />
+      <edge source="沈阳工业大学信息科学与工程学院" target="沈阳工业大学高等教育发展研究中心" id="37" weight="2" />
+      <edge source="华东理工大学理学院" target="上海理工大学光电信息与计算机工程学院" id="38" weight="2" />
+      <edge source="华东理工大学理学院" target="华东理工大学信息科学与工程学院" id="39" weight="2" />
+      <edge source="上海理工大学光电信息与计算机工程学院" target="华东理工大学信息科学与工程学院" id="40" weight="2" />
+      <edge source="智能信息处理与应用湖南省重点实验室" target="衡阳师范学院计算机科学与技术学院" id="41" weight="2" />
+      <edge source="青海省同仁县农村信用合作联社" target="青海民族大学计算机学院" id="42" weight="2" />
+      <edge source="珠海市教研中心" target="珠海市斗门区城南学校" id="43" weight="2" />
+      <edge source="贵州理工学院信息工程学院" target="湖南邵阳新宁二中" id="44" weight="2" />
+      <edge source="湖南邮电职业技术学院" target="中南林业科技大学涉外学院" id="45" weight="4" />
+      <edge source="湖南邮电职业技术学院" target="湖南高速公路管理局" id="46" weight="4" />
+      <edge source="中南林业科技大学涉外学院" target="湖南高速公路管理局" id="47" weight="4" />
+      <edge source="北京信息科技大学教务处" target="北京信息科技大学计算机学院" id="48" weight="2" />
+      <edge source="湖南科技学院电子工程与信息化学院" target="水口山镇毛溪桥完小" id="49" weight="2" />
+      <edge source="宁德师范学院计算机系" target="宜春学院数学与计算机科学学院" id="50" weight="2" />
+      <edge source="中国石油大学(华东)计算机与通信工程学院软件工程系" target="中国石油大学(华东)计算机与通信工程学院" id="51" weight="2" />
+      <edge source="华南师范大学教育信息技术学院" target="海南大学网络与教育技术中心" id="52" weight="2" />
+      <edge source="广东省湛江市广东海洋大学软件工程学院" target="广东海洋大学" id="53" weight="2" />
+      <edge source="佛山科学技术学院自动化系" target="佛山科学技术学院计算机系" id="54" weight="2" />
+      <edge source="克拉玛依职业技术学院" target="红云红河集团新疆卷烟厂" id="55" weight="2" />
+      <edge source="四川民族学院计算机科学系" target="西南大学计算机与信息科学学院" id="56" weight="2" />
+      <edge source="新疆轻工职业技术学院计算机系" target="新疆师范大学教育科学学院" id="57" weight="2" />
+      <edge source="湖南科技学院计算机与通信工程系" target="永州职业技术学院" id="58" weight="2" />
+      <edge source="大连理工大学计算机基础实验教学中心" target="大连理工大学机械工程学院" id="59" weight="2" />
+      <edge source="湖北汽车工业学院电气与信息工程学院" target="湖北汽车工业学院教务处" id="60" weight="2" />
+      <edge source="郑州轻工业学院" target="厦门大学" id="61" weight="2" />
+      <edge source="郑州轻工业学院" target="河南化工职业学院" id="62" weight="2" />
+      <edge source="天津理工大学机械工程学院" target="北京电子科技职业学院科研处" id="63" weight="2" />
+      <edge source="天津理工大学机械工程学院" target="天津理工大学计算机与通信工程学院" id="64" weight="2" />
+      <edge source="北京电子科技职业学院科研处" target="天津理工大学计算机与通信工程学院" id="65" weight="2" />
+      <edge source="哈尔滨工程大学计算机科学与技术学院" target="哈尔滨师范大学计算机科学与信息工程学院" id="66" weight="2" />
+      <edge source="河南工业职业技术学院软件学院" target="河南工业职业技术学院基础教学部" id="67" weight="2" />
+      <edge source="湖南工业大学电气与信息工程学院" target="湖南工业大学计算机与通信学院" id="68" weight="2" />
+      <edge source="盐城工学院实验教学部" target="盐城工学院信息工程学院" id="69" weight="2" />
+      <edge source="海口经济学院信息工程学院" target="中国传媒大学数字技术与艺术研发中心" id="70" weight="2" />
+      <edge source="北京科技大学信息工程学院" target="北京交通大学计算机与信息技术学院" id="71" weight="2" />
+      <edge source="郑州牧业工程高等专科学校信息工程系" target="中州大学信息管理中心" id="72" weight="2" />
+      <edge source="云南师范大学计算机与信息学院" target="云南大学信息学院" id="73" weight="2" />
+      <edge source="中国人民解放军海军大连舰艇学院政治系" target="沈阳理工大学应用技术学院" id="74" weight="2" />
+      <edge source="沈阳师范大学教育技术学院" target="沈阳师范大学软件学院" id="75" weight="2" />
+      <edge source="中国药科大学计算机教研室" target="南京理工大学信息与计算科学系" id="76" weight="2" />
+      <edge source="南昌航空大学科技学院" target="南昌航空大学信息工程学院" id="77" weight="2" />
+      <edge source="广东工业大学" target="广州现代信息工程职业技术学院" id="78" weight="2" />
+      <edge source="西北师范大学" target="西北民族大学" id="79" weight="2" />
+      <edge source="华南农业大学数学与信息学院" target="五邑大学计算机学院" id="80" weight="2" />
+      <edge source="重庆航天职业技术学院" target="重庆电子工程职业学院" id="81" weight="2" />
+      <edge source="鲁东大学信息与电气工程学院" target="烟台青华中学" id="82" weight="2" />
+      <edge source="安徽新华学院" target="合肥十一中" id="83" weight="2" />
+      <edge source="云南师范大学教务处" target="云南师范大学文理学院信息工程学院" id="84" weight="2" />
+      <edge source="河北联合大学以升学院" target="河北联合大学理学院" id="85" weight="2" />
+      <edge source="宁波城市职业技术学院高职研究中心" target="宁波城市职业技术学院信息学院" id="86" weight="2" />
+      <edge source="广东青年职业学院计算机工程系" target="辽宁工程技术大学创新实践学院" id="87" weight="2" />
+      <edge source="华中师范大学计算机科学系" target="湖北经济学院信息管理学院" id="88" weight="2" />
+      <edge source="河北农业大学信息科学与技术学院" target="河北农业大学食品科技学院" id="89" weight="2" />
+      <edge source="华南师范大学,教育信息技术学院" target="暨南大学,深圳旅游学院" id="90" weight="2" />
+      <edge source="西安交通大学城市学院" target="西安培华学院" id="91" weight="2" />
+      <edge source="北京理工大学计算机学院" target="北京理工大学机械与车辆学院" id="92" weight="2" />
+      <edge source="江西农业工程职业学院" target="西安周至职教中心" id="93" weight="2" />
+      <edge source="同济大学电信学院" target="华东理工大学电信学院" id="94" weight="2" />
+      <edge source="同济大学电信学院" target="上海交通大学电信学院" id="95" weight="2" />
+      <edge source="华东理工大学电信学院" target="上海交通大学电信学院" id="96" weight="2" />
+    </edges>
+  </graph>
+</gexf>
